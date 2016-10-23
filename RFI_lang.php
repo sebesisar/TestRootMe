@@ -1,3 +1,3 @@
 <?php
-
-file_get_contents("index.php");
+show_source("index.php");
+?>
